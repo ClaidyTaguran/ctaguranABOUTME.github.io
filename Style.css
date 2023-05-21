@@ -1,0 +1,40 @@
+html,
+body {
+  background-color: #F2F7FD;
+  transition: all 0.3s;
+}
+
+.button-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+
+
+h1 { font-Family:'Century Gothic';
+    font-style: italic;
+    text-align: center;
+    color: midnightblue ;}
+
+h3{ font-family:'Calibri';
+   font-style: italic;
+   text-align: center;
+   color: steelblue;}
+   
+
+pre{ font-family:'Arial';
+    font-style: italic;
+    text-align: center;
+    Color: black;
+    }
+
+	body { width: 99vw; margin:auto;
+	background-image: url("bgam2.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	height: 170%;
+	background-attachment: fixed;
+	}
